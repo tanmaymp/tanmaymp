@@ -1,4 +1,4 @@
-## Hello, I am Tanmay Parulekar ❕
+# Hello, I am Tanmay Parulekar ❕
 
 
 Here's a little something about me :
@@ -9,7 +9,7 @@ Here's a little something about me :
 - 🧠 Future Goals : Excited to explore Vector Databases and build RAG (Retrieval-Augmented Generation) pipelines in the near future.
 
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -28,7 +28,7 @@ Here's a little something about me :
 - 💡 *Motto:* **"Do the hard work today for an easier tomorrow."**
 
 
-### 📬 Feel free to reach out!
+## 📬 Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-parulekar)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmparulekar@gmail.com)
