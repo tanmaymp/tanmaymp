@@ -3,7 +3,7 @@
 
 Here's a little something about me :
 
-- 🎓 Education : I'm a Master's graduate in Computer Science from Arizona State University (ASU).
+- 🎓 Education : I am a Master's graduate in Computer Science from Arizona State University (ASU).
 - 🛠️ Skills : I specialize in building robust ETL pipelines on AWS and other cloud platforms.
 - 🚀 Current Focus : Currently diving deeper into workflow orchestration with Airflow and data transformation using DBT.
 - 🧠 Future Goals : Excited to explore Vector Databases and build RAG (Retrieval-Augmented Generation) pipelines in the near future.
@@ -19,6 +19,13 @@ Here's a little something about me :
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 💬 Fun Facts
+
+- 🎸 I am a music lover and a self-taught guitarist.  
+- 📺 I enjoy binge-watching random TV shows — open to any and all recommendations!  
+- 💡 *Motto:* **"Do the hard work today for an easier tomorrow."**
 
 
 ### 📬 Feel free to reach out!
