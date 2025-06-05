@@ -1,9 +1,9 @@
 ## Hello, I am Tanmay !
 
-🎓 I'm a Master's graduate in Computer Science from Arizona State University (ASU).
-💯 I specialize in building robust ETL pipelines on AWS and other cloud platforms.
-⚒️ Currently diving deeper into workflow orchestration with Airflow and data transformation using DBT.
-🔥 Excited to explore Vector Databases and build RAG (Retrieval-Augmented Generation) pipelines in the near future.
+-🎓 I'm a Master's graduate in Computer Science from Arizona State University (ASU).
+-💯 I specialize in building robust ETL pipelines on AWS and other cloud platforms.
+-⚒️ Currently diving deeper into workflow orchestration with Airflow and data transformation using DBT.
+-🔥 Excited to explore Vector Databases and build RAG (Retrieval-Augmented Generation) pipelines in the near future.
 
 
 <!--
