@@ -1,9 +1,13 @@
-## Hello, I am Tanmay !
+## Hello, I am Tanmay Parulekar ❕
+
+
+Here's a little something about me :
 
 - 🎓 Education : I'm a Master's graduate in Computer Science from Arizona State University (ASU).
 - 🛠️ Skills : I specialize in building robust ETL pipelines on AWS and other cloud platforms.
 - 🚀 Current Focus : Currently diving deeper into workflow orchestration with Airflow and data transformation using DBT.
 - 🧠 Future Goals : Excited to explore Vector Databases and build RAG (Retrieval-Augmented Generation) pipelines in the near future.
+
 
 ### ⚙️ Tech Stack
 
@@ -15,6 +19,12 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 📬 Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-parulekar)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmparulekar@gmail.com)
 
 <!--
 **tanmaymp/tanmaymp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
