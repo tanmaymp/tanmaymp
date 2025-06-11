@@ -1,4 +1,5 @@
 # Hello, I am Tanmay Parulekar ❕
+## Data Engineer
 
 
 Here's a little something about me :
@@ -19,6 +20,16 @@ Here's a little something about me :
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+## 📂 Featured Projects
+
+- [Instacart Market Basket Analysis - Cartflow](https://github.com/tanmaymp/Cartflow):  
+  Orchestrated with Airflow, transformed with DBT, and visualized with Tableau.  
+- [Distributed Banking System Simulation](https://github.com/tanmaymp/banking_grpc):  
+  Simulated Banking system using gRPC.
+
 
 
 ## 💬 Fun Facts
