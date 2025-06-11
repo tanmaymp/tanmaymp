@@ -27,8 +27,8 @@ Here's a little something about me :
 
 - [Instacart Market Basket Analysis - Cartflow](https://github.com/tanmaymp/Cartflow):  
   Orchestrated with Airflow, transformed with DBT, and visualized with Tableau.
-- [Elastic Face Recognition System on AWS](https://github.com/tanmaymp/aws-face-recognition):
-  Face recognition system using, webservers on EC2, SQS, S3 and pretraiend model 
+- [Elastic Face Recognition System on AWS](https://github.com/tanmaymp/aws-face-recognition):  
+  Face recognition system using, webservers on EC2, SQS, S3 and pretraiend model.
 - [Distributed Banking System Simulation](https://github.com/tanmaymp/banking_grpc):  
   Simulated Banking system using gRPC.
 
