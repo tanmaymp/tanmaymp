@@ -1,5 +1,5 @@
 # Hello, I am Tanmay Parulekar ❕
-## Data Engineer
+## Data and Software Engineer
 
 
 Here's a little something about me :
